@@ -1,7 +1,7 @@
 # Hi, I'm Ben Howbrook 👋
 ### Technical Operator & PropTech Developer
 
-I am a technical operator based in Vancouver, bridging the gap between comprehensive commercial property management and custom software architecture. 
+I am a technical operator, bridging the gap between comprehensive commercial property management and custom software architecture. 
 
 Because I focus on enterprise solutions and operational tooling, **the majority of my recent codebase is proprietary and housed in private repositories.** My work primarily revolves around replacing legacy real estate spreadsheets with automated platforms, and building algorithmic data pipelines. 
 
