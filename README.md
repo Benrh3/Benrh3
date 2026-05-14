@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ben Howbrook 👋
+### Technical Operator & PropTech Developer
 
-<!--
-**Benrh3/Benrh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technical operator based in Vancouver, bridging the gap between comprehensive commercial property management and custom software architecture. 
 
-Here are some ideas to get you started:
+Because I focus on enterprise solutions and operational tooling, **the majority of my recent codebase is proprietary and housed in private repositories.** My work primarily revolves around replacing legacy real estate spreadsheets with automated platforms, and building algorithmic data pipelines. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do:**
+* 🏢 **PropTech Architecture:** Designing and deploying custom property management platforms to automate leasing pipelines, maintenance ticketing, and AR/AP accruals for commercial real estate operators.
+* ⚙️ **Systems & Infrastructure:** Managing VPS deployments, Linux server administration (Ubuntu/Mint), and Nginx configuration.
+* 📊 **Algorithmic Pipelines:** Engineering Python-based trading scripts interacting with decentralized exchange APIs to manage real-time data streams.
+
+**Core Stack:**
+`Node.js` | `Python` | `MySQL / PostgreSQL` | `Linux` | `Nginx` | `Git`
+
+📫 **Get in touch:** benhowbrook@hotmail.com |
