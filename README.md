@@ -1,4 +1,4 @@
-# Hi, I'm Ben Howbrook 👋
+# Hi, I'm Ben 👋
 ### Technical Operator & PropTech Developer
 
 I am a technical operator, bridging the gap between comprehensive commercial property management and custom software architecture. 
